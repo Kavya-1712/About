@@ -1,0 +1,3 @@
+My name is Kavya
+I am pursuing my Bachelor's Degree in Computer Applications
+Creating my first Hello project
